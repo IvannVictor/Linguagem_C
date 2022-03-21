@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638111964 source:d:\cursos\testes em c\16º - testando escrita e leitura de txt\main.c
+	<stdio.h>
+	<stdlib.h>
+

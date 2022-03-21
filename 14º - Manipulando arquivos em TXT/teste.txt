@@ -1,0 +1,2 @@
+Com o fprint ele escreve no arquivo
+testando se vai entrar outra linha ou apagar a mensagem da primeira

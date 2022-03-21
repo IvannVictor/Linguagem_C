@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636679168 source:d:\cursos\testes em c\08 - teste unip\main.c
+	<stdio.h>
+	<stdlib.h>
+

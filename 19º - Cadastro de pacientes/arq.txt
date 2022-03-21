@@ -1,0 +1,30 @@
+Nome: Ivan Victor Azevedo Silva 
+Email: ivan@email.com 
+CPF: 12345678901 
+Estado: Sao Paulo 
+Cidade: Jandira 
+Bairro: Jardim Alvorada 
+Telefone: (11)912345678 
+Comorbidade: Asma 
+-----------------------------------------------------------------------------
+
+Nome: Bruna Vitoria Silva Cruz 
+Email: bruna@email.com 
+CPF: 09876543212 
+Estado: Sao Paulo 
+Cidade: Barueri 
+Bairro: Maria Helena 
+Telefone: (11)987654321 
+Comorbidade: Bronquite 
+-----------------------------------------------------------------------------
+
+Nome: Carlos Lopes Silvano 
+Email: carlos@email.com 
+CPF: 12457823784 
+Estado: Sao Paulo 
+Cidade: Itapevi 
+Bairro: Amador Bueno 
+Telefone: (11)900110101 
+Comorbidade: Diabetes 
+-----------------------------------------------------------------------------
+

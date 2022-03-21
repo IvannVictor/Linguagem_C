@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638154244 source:d:\cursos\testes em c\19º - cadastro de pacientes\main.c
+	<stdio.h>
+	<stdlib.h>
+
